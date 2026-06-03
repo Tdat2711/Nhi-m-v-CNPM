@@ -1,4 +1,4 @@
-# WEEK 4 - UI DESIGN
+# WEEK 4
 
 ## Thành viên thực hiện
 
